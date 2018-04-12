@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPP2.HTTP", "PPP2.HTTP\PPP2.HTTP.csproj", "{BE5418B5-1EE7-4FD0-B0A0-297C40DE33A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{30B4A7A8-24BD-4E7B-BD1D-BEFDC3145452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayModels", "DisplayModels\DisplayModels.csproj", "{4853CC39-27F9-4972-894F-5B8F5D1E133B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE5418B5-1EE7-4FD0-B0A0-297C40DE33A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5418B5-1EE7-4FD0-B0A0-297C40DE33A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5418B5-1EE7-4FD0-B0A0-297C40DE33A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5418B5-1EE7-4FD0-B0A0-297C40DE33A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B4A7A8-24BD-4E7B-BD1D-BEFDC3145452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B4A7A8-24BD-4E7B-BD1D-BEFDC3145452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B4A7A8-24BD-4E7B-BD1D-BEFDC3145452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B4A7A8-24BD-4E7B-BD1D-BEFDC3145452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4853CC39-27F9-4972-894F-5B8F5D1E133B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4853CC39-27F9-4972-894F-5B8F5D1E133B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4853CC39-27F9-4972-894F-5B8F5D1E133B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4853CC39-27F9-4972-894F-5B8F5D1E133B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1755195-BE8D-448B-A0A2-10C61A84DF95}
+	EndGlobalSection
+EndGlobal
